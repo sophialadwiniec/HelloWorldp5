@@ -1,4 +1,4 @@
-## Hello World for P5.js
+## Hello World for p5.js
 #### by Sophia Ladwiniec
 January 28th, 2020 
 
