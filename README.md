@@ -9,4 +9,4 @@ This is a hello world sketch in P5.js.
 
 ### Technical Details
 
-Modify the sketch.js setup() and draw() are used only
+Modify the sketch.js setup() and draw() are used only 
